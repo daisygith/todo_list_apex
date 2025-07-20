@@ -45,32 +45,6 @@ In **plsql file** is code from TODO base. I created there:
 * Oracle APEX 24.2.0
 * Oracle SQL Developer
 
-## **Installation**
-
-To install TODO Application, follow these steps:
-
-1. Clone the repository: **`git clone https://github.com/daisygith/todo_app.git`**
-2. Navigate to the project directory: **`cd todo_app`**
-3. Database import
-    - Run **plsql/todo.sql** in Oracle database
-4. Client
-   - Navigate to the client directory: **`cd client/todo_app`**
-   - Install dependencies: **`npm install`**
-   - Start the project: **`npm start`**
-5. Server
-   - Navigate to the server directory: **`cd server`**
-   - Install dependencies: **`npm install`**
-     - Configure connection to database in **db.js**
-       ```
-         const config = {
-           user: "todo",
-           password: "todo123",
-           connectString: "localhost:1521/FREEPDB1",
-         };
-       ```
-   - Start the project: **`npm dev`**
-
-
 
 ## **Authors**
 
