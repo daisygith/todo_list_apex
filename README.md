@@ -11,6 +11,7 @@ TODO Application is an application to manage your tasks
 
 
 ### **View app with description** ###
+<img width="2371" height="579" alt="image" src="https://github.com/user-attachments/assets/2d5af089-2f88-49c4-81dc-829a81f102f3" />
 
 
 ## **Introduction**
